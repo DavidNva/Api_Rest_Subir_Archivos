@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SubirArchivos_API_Rest_Full.props" />
+</Project>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos David\\Proyectos_de_practica_david_Otros_Practica\\Subir_Archivo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59E911C3-72F3-4811-8E19-CBBF5E66FE60}|Subir_Archivo\\Subir_Archivo.csproj|d:\\proyectos david\\proyectos_de_practica_david_otros_practica\\subir_archivo\\subir_archivo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E911C3-72F3-4811-8E19-CBBF5E66FE60}|Subir_Archivo\\Subir_Archivo.csproj|solutionrelative:subir_archivo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E911C3-72F3-4811-8E19-CBBF5E66FE60}|Subir_Archivo\\Subir_Archivo.csproj|d:\\proyectos david\\proyectos_de_practica_david_otros_practica\\subir_archivo\\subir_archivo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59E911C3-72F3-4811-8E19-CBBF5E66FE60}|Subir_Archivo\\Subir_Archivo.csproj|solutionrelative:subir_archivo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Proyectos David\\Proyectos_de_practica_david_Otros_Practica\\Subir_Archivo\\Subir_Archivo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Subir_Archivo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Proyectos David\\Proyectos_de_practica_david_Otros_Practica\\Subir_Archivo\\Subir_Archivo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Subir_Archivo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T23:21:33.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Proyectos David\\Proyectos_de_practica_david_Otros_Practica\\Subir_Archivo\\Subir_Archivo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Subir_Archivo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Proyectos David\\Proyectos_de_practica_david_Otros_Practica\\Subir_Archivo\\Subir_Archivo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Subir_Archivo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T23:20:23.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@SubirArchivos_API_Rest_Full_HostAddress = http://localhost:5287
+
+GET {{SubirArchivos_API_Rest_Full_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
